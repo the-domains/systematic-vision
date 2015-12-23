@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Systematic Vision Imaging Components, Services and Solutions]]></title>
+        <description><![CDATA[Systematic Vision Imaging Components, Services and Solutions]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 23 Dec 2015 19:20:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Photonfocus MV1-D2048x1088-HS02-96-G2 Hyperspectral Camera]]></title>
+            <description><![CDATA[<article><h1>Photonfocus MV1-D2048x1088-HS02-96-G2 Hyperspectral Camera</h1><p>The Photonfocus MV1-D2048x1088-HS02-G2 camera deploys the IMEC snapshot mosaic CMV2K-SSM5x5-NIR sensor which is based on the CMOSIS CMV2000 CMOS image sensor. The sensor has in the spectral region from 600nm to 975nm 25 pass bands in a 5 by 5 mosaic with a Full-Width Half-Maximum (FWHM) of 16nm. The spatial resolution of the sensor is 409 x 217 pixels per spectral band.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d88d2820-1418-4b6d-b84e-21ff505b8344.jpg"></article>]]></description>
+            <link>undefinedphotonfocus-mv1-d2048x1088-hs02-96-g2-hyperspectral-camera/index.html</link>
+            <guid isPermaLink="false">a5af44ae-2126-4ead-a0cf-6fe3e967c6f9</guid>
+            <pubDate>Wed, 23 Dec 2015 19:20:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
